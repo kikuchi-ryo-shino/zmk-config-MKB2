@@ -2,12 +2,12 @@
   "repository": "kikuchi-ryo-shino/zmk-config-MKB2",
   "branch": "main",
   "target": "all",
-  "status": "failing",
-  "raw_status": "failure",
-  "color": "#d73a49",
-  "sha": "55116e50b2c36feb76531fe213d3258db11b81c2",
-  "run_id": "30125877781",
-  "run_number": "35",
-  "run_url": "https://github.com/kikuchi-ryo-shino/zmk-config-MKB2/actions/runs/30125877781",
-  "generated_at": "2026-07-24T21:06:09Z"
+  "status": "passing",
+  "raw_status": "success",
+  "color": "#2ea44f",
+  "sha": "c582c8d558acac51158f4bcf107e796b0db92d2f",
+  "run_id": "30174033989",
+  "run_number": "36",
+  "run_url": "https://github.com/kikuchi-ryo-shino/zmk-config-MKB2/actions/runs/30174033989",
+  "generated_at": "2026-07-25T20:50:30Z"
 }
